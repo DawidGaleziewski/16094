@@ -1,0 +1,11 @@
+p {
+    background-color: #5a3921;
+}
+
+h1,h3 {
+    background-color: #6b8c42;
+}
+
+h1+h3 {
+    color: #FFFFB5;
+}
